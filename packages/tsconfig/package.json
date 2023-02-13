@@ -1,0 +1,9 @@
+{
+  "name": "tsconfig",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@tsconfig/next-strictest": "^1.0.1",
+    "@tsconfig/node18-strictest": "1.0.0"
+  },
+  "private": true
+}
